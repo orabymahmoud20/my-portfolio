@@ -17,7 +17,7 @@ export default function Footer() {
           </a>
           
           {/* LinkedIn Link */}
-          <a href="https://www.linkedin.com/in/mahmoud-oraby-65455222320/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/mahmoud-oraby-6545522a3?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" rel="noopener noreferrer">
             <img src="/linkend.png" alt="linkedin" className="w-10 h-10 hover:scale-110 hover:-translate-y-1 transition-all duration-300 drop-shadow-lg" />
           </a>
 
