@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+/* ضيف الجزء ده عشان يخلي الموقع كله غامق والسكرول ناعم */
+html, body {
+  background-color: #030712; /* ده نفس درجة لون bg-gray-950 */
+  color: white;
+  scroll-behavior: smooth;
+  overflow-x: hidden; /* عشان نمنع أي مساحة بيضاء تظهر بالعرض */
+}
